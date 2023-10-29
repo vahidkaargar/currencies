@@ -1,6 +1,6 @@
 <?php
 
-namespace vahidkaargar\BambooCardPortal\ServiceProviders;
+namespace vahidkaargar\Currencies;
 
 use Illuminate\Support\ServiceProvider;
 
